@@ -1,0 +1,12 @@
+[
+{"name": "S.E.A. Aquarium", "score": "9.2", "attractionType": "", "address": "8 Sentosa Gateway, Sentosa Island, Singapore 098269", "openingHours": "Open tomorrow at 10:00-19:00", "recommendedDuration": "1-2 hours", "review": "", "phone": ""},
+{"name": "River Wonders", "score": "8.9", "attractionType": "", "address": "80 Mandai Lake Road, Singapore 729826", "openingHours": "Open tomorrow at 10:00-19:00(Admission ends at 18:00)", "recommendedDuration": "2-3 hours", "review": "", "phone": "65-62693411"},
+{"name": "Night Safari", "score": "9.4", "attractionType": "Night view", "address": "80 Mandai Lake Rd, Singapore 729826", "openingHours": "Opens at 19:15-23:59(Admission ends at 23:15)", "recommendedDuration": "3-4 hours", "review": "", "phone": ""},
+{"name": "Singapore Zoo", "score": "9.0", "attractionType": "", "address": "80 Mandai Lake Road, Singapore 729826", "openingHours": "Open tomorrow at 08:30-18:00(Admission ends at 17:00)", "recommendedDuration": "4-6 hours", "review": "", "phone": ""},
+{"name": "Marina Bay", "score": "9.9", "attractionType": "Night view", "address": "Singapore", "openingHours": "1-2 hours", "recommendedDuration": "1-2 hours", "review": "", "phone": "65-63293535"},
+{"name": "Skyline Luge Singapore", "score": "9.2", "attractionType": "Cable car", "address": "45 Siloso Beach Walk, Sentosa, Singapore 099692", "openingHours": "Open tomorrow at 10:00-19:30(Admission ends at 18:30)", "recommendedDuration": "1-2 hours", "review": "", "phone": "65-62740472"},
+{"name": "National Museum of Singapore", "score": "8.9", "attractionType": "Museums", "address": "93 Stamford Rd, Singapore 178897", "openingHours": "Open tomorrow at 10:00-19:00(Admission ends at 18:30)", "recommendedDuration": "1-3 hours", "review": "", "phone": ""},
+{"name": "Gardens by the Bay", "score": "9.9", "attractionType": "Night view", "address": "18 Marina Gardens Dr, Singapore 018953", "openingHours": "Open tomorrow at 09:00-21:00", "recommendedDuration": "2-3 hours", "review": "", "phone": "65-64206848"},
+{"name": "Universal Studios Singapore", "score": "10", "attractionType": "Amusement parks", "address": "8 Sentosa Gateway, Singapore 098269", "openingHours": "Open tomorrow at 10:00-20:00", "recommendedDuration": "1 day", "review": "", "phone": ""},
+{"name": "Sentosa", "score": "10", "attractionType": "Natural scenery", "address": "Sentosa, Singapore 098942", "openingHours": "Open year round, 24/7", "recommendedDuration": "1-2 days", "review": "", "phone": "65-67368672"}
+]
